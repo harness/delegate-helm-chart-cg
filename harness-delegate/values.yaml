@@ -24,6 +24,8 @@ delegateName: harness-delegate
 # Namespace in which delegate will be installed
 namespace: harness-delegate
 
+deployMode: "KUBERNETES"
+
 delegateDockerImage: harness/delegate:latest
 
 # For connecting to Harness production SAAS environment, leave these

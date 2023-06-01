@@ -1,166 +1,188 @@
 apiVersion: v1
 entries:
   harness-delegate:
-    - apiVersion: v2
-      created: "2022-03-14T11:45:47.340142+05:30"
-      description: Deploys harness delegate
-      digest: b6d1ce4f1c7e6b4e962fa1c8db7b047b6b9c23029502d6bc64958c3c19df5b85
-      home: https://harness.io/
-      icon: https://harness.io/wp-content/uploads/2019/07/logo-black.png
-      keywords:
-        - harness.io
-        - harness delegate
-      maintainers:
-        - email: anshul@harness.io
-          name: anshul
-        - email: puneet.saraswat@harness.io
-          name: puneet saraswat
-        - email: yogesh.chauhan@harness.io
-          name: yogesh chauhan
-        - email: tathagat.chaurasiya@harness.io
-          name: tathagat chaurasiya
-      name: harness-delegate
-      urls:
-        - harness-delegate-1.0.8.tgz
-      version: 1.0.8
-    - apiVersion: v2
-      created: "2022-03-11T14:54:46.686366+05:30"
-      description: Deploys harness delegate
-      digest: 2e065bfc761ae0b565da8b392529cd582fa61b64ed5389e10858f90546c62df6
-      home: https://harness.io/
-      icon: https://harness.io/wp-content/uploads/2019/07/logo-black.png
-      keywords:
-        - harness.io
-        - harness delegate
-      maintainers:
-        - email: anshul@harness.io
-          name: anshul
-        - email: puneet.saraswat@harness.io
-          name: puneet saraswat
-        - email: yogesh.chauhan@harness.io
-          name: yogesh chauhan
-        - email: tathagat.chaurasiya@harness.io
-          name: tathagat chaurasiya
-      name: harness-delegate
-      urls:
-        - harness-delegate-1.0.7.tgz
-      version: 1.0.7
-    - apiVersion: v2
-      created: "2021-08-27T18:00:13.576166+05:30"
-      description: Deploys harness delegate
-      digest: ec8e17a90d9059afc7880bff7e9fb34b18df2adc429966c64a0a3d62f7b1a1e7
-      home: https://harness.io/
-      icon: https://harness.io/wp-content/uploads/2019/07/logo-black.png
-      keywords:
-        - harness.io
-        - harness delegate
-      maintainers:
-        - email: anshul@harness.io
-          name: anshul
-        - email: puneet.saraswat@harness.io
-          name: puneet saraswat
-        - email: yogesh.chauhan@harness.io
-          name: yogesh chauhan
-        - email: tathagat.chaurasiya@harness.io
-          name: tathagat chaurasiya
-      name: harness-delegate
-      urls:
-        - harness-delegate-1.0.6.tgz
-      version: 1.0.6
-    - apiVersion: v2
-      created: "2021-08-27T18:00:13.573438+05:30"
-      description: Deploys harness delegate
-      digest: 08a8677f56bbbf43163dadcb4ccb173f19a4c4d25d5ab3277edaff9a6dfadb99
-      home: https://harness.io/
-      icon: https://harness.io/wp-content/uploads/2019/07/logo-black.png
-      keywords:
-        - harness.io
-        - harness delegate
-      maintainers:
-        - email: anshul@harness.io
-          name: anshul
-        - email: puneet.saraswat@harness.io
-          name: puneet saraswat
-        - email: yogesh.chauhan@harness.io
-          name: yogesh chauhan
-        - email: tathagat.chaurasiya@harness.io
-          name: tathagat chaurasiya
-      name: harness-delegate
-      urls:
-        - harness-delegate-1.0.5.tgz
-      version: 1.0.5
-    - apiVersion: v1
-      created: "2021-02-05T11:50:22.359778-08:00"
-      description: Deploys harness delegate
-      digest: 70775fe1a27ee22d354bb7ecd535e18ab78839e0161d58efc7010cac59057382
-      home: https://harness.io/
-      icon: https://harness.io/wp-content/uploads/2019/07/logo-black.png
-      keywords:
-        - harness.io
-        - harness delegate
-      maintainers:
-        - email: anshul@harness.io
-          name: anshul
-        - email: puneet.saraswat@harness.io
-          name: puneet saraswat
-        - email: yogesh.chauhan@harness.io
-          name: yogesh chauhan
-      name: harness-delegate
-      urls:
-        - harness-delegate-1.0.3.tgz
-      version: 1.0.3
-    - apiVersion: v1
-      created: "2021-02-05T11:50:22.354691-08:00"
-      description: Deploys harness delegate
-      digest: 1b991e174ba1b3875415e0323e81a8025f746a8be73d83b445d0620a8650f401
-      home: https://harness.io/
-      icon: https://harness.io/wp-content/uploads/2019/07/logo-black.png
-      keywords:
-        - harness.io
-        - harness delegate
-      maintainers:
-        - email: anshul@harness.io
-          name: anshul
-        - email: puneet.saraswat@harness.io
-          name: puneet saraswat
-      name: harness-delegate
-      urls:
-        - harness-delegate-1.0.2.tgz
-      version: 1.0.2
-    - apiVersion: v1
-      created: "2021-02-05T11:50:22.354077-08:00"
-      description: Deploys harness delegate
-      digest: f979cb307601eed8fda1975f81197683fb1f748049ea672bce10c75c22d19b10
-      home: https://harness.io/
-      icon: https://harness.io/wp-content/uploads/2019/07/logo-black.png
-      keywords:
-        - harness.io
-        - harness delegate
-      maintainers:
-        - email: anshul@harness.io
-          name: anshul
-        - email: puneet.saraswat@harness.io
-          name: puneet saraswat
-      name: harness-delegate
-      urls:
-        - harness-delegate-1.0.1.tgz
-      version: 1.0.1
-    - apiVersion: v1
-      created: "2021-02-05T11:50:22.353464-08:00"
-      description: Deploys harness delegate
-      digest: ccddfc1a1387d445ffc5a5be921007bf5920896b2834639366513f63f4a48694
-      home: https://harness.io/
-      icon: https://harness.io/wp-content/uploads/2019/07/logo-black.png
-      keywords:
-        - harness.io
-        - harness delegate
-      maintainers:
-        - email: anshul@harness.io
-          name: anshul
-        - email: puneet.saraswat@harness.io
-          name: puneet saraswat
-      name: harness-delegate
-      urls:
-        - harness-delegate-1.0.0.tgz
-      version: 1.0.0
-generated: "2022-11-10T09:55:18.999324-05:00"
+  - apiVersion: v2
+    created: "2023-06-01T17:46:17.378004+05:30"
+    description: Deploys harness delegate
+    digest: c894dfbf0e6e835993f4281a75bd50f9c6b6b85630af750a4c1ae8e97f797147
+    home: https://harness.io/
+    icon: https://harness.io/wp-content/uploads/2019/07/logo-black.png
+    keywords:
+    - harness.io
+    - harness delegate
+    maintainers:
+    - email: anshul@harness.io
+      name: anshul
+    - email: puneet.saraswat@harness.io
+      name: puneet saraswat
+    - email: yogesh.chauhan@harness.io
+      name: yogesh chauhan
+    - email: tathagat.chaurasiya@harness.io
+      name: tathagat chaurasiya
+    name: harness-delegate
+    urls:
+    - harness-delegate-1.0.9.tgz
+    version: 1.0.9
+  - apiVersion: v2
+    created: "2022-03-14T11:45:47.340142+05:30"
+    description: Deploys harness delegate
+    digest: b6d1ce4f1c7e6b4e962fa1c8db7b047b6b9c23029502d6bc64958c3c19df5b85
+    home: https://harness.io/
+    icon: https://harness.io/wp-content/uploads/2019/07/logo-black.png
+    keywords:
+    - harness.io
+    - harness delegate
+    maintainers:
+    - email: anshul@harness.io
+      name: anshul
+    - email: puneet.saraswat@harness.io
+      name: puneet saraswat
+    - email: yogesh.chauhan@harness.io
+      name: yogesh chauhan
+    - email: tathagat.chaurasiya@harness.io
+      name: tathagat chaurasiya
+    name: harness-delegate
+    urls:
+    - harness-delegate-1.0.8.tgz
+    version: 1.0.8
+  - apiVersion: v2
+    created: "2022-03-11T14:54:46.686366+05:30"
+    description: Deploys harness delegate
+    digest: 2e065bfc761ae0b565da8b392529cd582fa61b64ed5389e10858f90546c62df6
+    home: https://harness.io/
+    icon: https://harness.io/wp-content/uploads/2019/07/logo-black.png
+    keywords:
+    - harness.io
+    - harness delegate
+    maintainers:
+    - email: anshul@harness.io
+      name: anshul
+    - email: puneet.saraswat@harness.io
+      name: puneet saraswat
+    - email: yogesh.chauhan@harness.io
+      name: yogesh chauhan
+    - email: tathagat.chaurasiya@harness.io
+      name: tathagat chaurasiya
+    name: harness-delegate
+    urls:
+    - harness-delegate-1.0.7.tgz
+    version: 1.0.7
+  - apiVersion: v2
+    created: "2021-08-27T18:00:13.576166+05:30"
+    description: Deploys harness delegate
+    digest: ec8e17a90d9059afc7880bff7e9fb34b18df2adc429966c64a0a3d62f7b1a1e7
+    home: https://harness.io/
+    icon: https://harness.io/wp-content/uploads/2019/07/logo-black.png
+    keywords:
+    - harness.io
+    - harness delegate
+    maintainers:
+    - email: anshul@harness.io
+      name: anshul
+    - email: puneet.saraswat@harness.io
+      name: puneet saraswat
+    - email: yogesh.chauhan@harness.io
+      name: yogesh chauhan
+    - email: tathagat.chaurasiya@harness.io
+      name: tathagat chaurasiya
+    name: harness-delegate
+    urls:
+    - harness-delegate-1.0.6.tgz
+    version: 1.0.6
+  - apiVersion: v2
+    created: "2021-08-27T18:00:13.573438+05:30"
+    description: Deploys harness delegate
+    digest: 08a8677f56bbbf43163dadcb4ccb173f19a4c4d25d5ab3277edaff9a6dfadb99
+    home: https://harness.io/
+    icon: https://harness.io/wp-content/uploads/2019/07/logo-black.png
+    keywords:
+    - harness.io
+    - harness delegate
+    maintainers:
+    - email: anshul@harness.io
+      name: anshul
+    - email: puneet.saraswat@harness.io
+      name: puneet saraswat
+    - email: yogesh.chauhan@harness.io
+      name: yogesh chauhan
+    - email: tathagat.chaurasiya@harness.io
+      name: tathagat chaurasiya
+    name: harness-delegate
+    urls:
+    - harness-delegate-1.0.5.tgz
+    version: 1.0.5
+  - apiVersion: v1
+    created: "2021-02-05T11:50:22.359778-08:00"
+    description: Deploys harness delegate
+    digest: 70775fe1a27ee22d354bb7ecd535e18ab78839e0161d58efc7010cac59057382
+    home: https://harness.io/
+    icon: https://harness.io/wp-content/uploads/2019/07/logo-black.png
+    keywords:
+    - harness.io
+    - harness delegate
+    maintainers:
+    - email: anshul@harness.io
+      name: anshul
+    - email: puneet.saraswat@harness.io
+      name: puneet saraswat
+    - email: yogesh.chauhan@harness.io
+      name: yogesh chauhan
+    name: harness-delegate
+    urls:
+    - harness-delegate-1.0.3.tgz
+    version: 1.0.3
+  - apiVersion: v1
+    created: "2021-02-05T11:50:22.354691-08:00"
+    description: Deploys harness delegate
+    digest: 1b991e174ba1b3875415e0323e81a8025f746a8be73d83b445d0620a8650f401
+    home: https://harness.io/
+    icon: https://harness.io/wp-content/uploads/2019/07/logo-black.png
+    keywords:
+    - harness.io
+    - harness delegate
+    maintainers:
+    - email: anshul@harness.io
+      name: anshul
+    - email: puneet.saraswat@harness.io
+      name: puneet saraswat
+    name: harness-delegate
+    urls:
+    - harness-delegate-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v1
+    created: "2021-02-05T11:50:22.354077-08:00"
+    description: Deploys harness delegate
+    digest: f979cb307601eed8fda1975f81197683fb1f748049ea672bce10c75c22d19b10
+    home: https://harness.io/
+    icon: https://harness.io/wp-content/uploads/2019/07/logo-black.png
+    keywords:
+    - harness.io
+    - harness delegate
+    maintainers:
+    - email: anshul@harness.io
+      name: anshul
+    - email: puneet.saraswat@harness.io
+      name: puneet saraswat
+    name: harness-delegate
+    urls:
+    - harness-delegate-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v1
+    created: "2021-02-05T11:50:22.353464-08:00"
+    description: Deploys harness delegate
+    digest: ccddfc1a1387d445ffc5a5be921007bf5920896b2834639366513f63f4a48694
+    home: https://harness.io/
+    icon: https://harness.io/wp-content/uploads/2019/07/logo-black.png
+    keywords:
+    - harness.io
+    - harness delegate
+    maintainers:
+    - email: anshul@harness.io
+      name: anshul
+    - email: puneet.saraswat@harness.io
+      name: puneet saraswat
+    name: harness-delegate
+    urls:
+    - harness-delegate-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-06-01T17:46:17.376758+05:30"

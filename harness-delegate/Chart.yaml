@@ -1,6 +1,6 @@
 apiVersion: v2
 name: harness-delegate
-version: 1.0.8
+version: 1.0.9
 description: Deploys harness delegate
 home: https://harness.io/
 icon: https://harness.io/wp-content/uploads/2019/07/logo-black.png

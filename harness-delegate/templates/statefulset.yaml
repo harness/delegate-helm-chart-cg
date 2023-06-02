@@ -17,7 +17,7 @@ data:
   REMOTE_WATCHER_URL_CDN: {{ .Values.remoteWatcherUrlCdn | quote }}
   DELEGATE_STORAGE_URL: {{ .Values.delegateStorageUrl }}
   DELEGATE_CHECK_LOCATION: {{ .Values.delegateCheckLocation }}
-  DEPLOY_MODE: "KUBERNETES"
+  DEPLOY_MODE: {{ .Values.deployMode }}
   DELEGATE_NAME: {{ .Values.delegateName | quote }}
   DELEGATE_PROFILE: {{ .Values.delegateProfile | quote }}
   PROXY_HOST: {{ .Values.proxyHost | quote }}
